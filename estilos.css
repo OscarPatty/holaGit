@@ -1,0 +1,28 @@
+body,
+html {
+  height: 100%;
+}
+
+body {
+  background: linear-gradient(to bottom right, #540393, #ce56b6);
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-attachment: fixed;
+}
+
+.container {
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px;
+}
+
+.message-box {
+  background-color: #fff;
+  border: 2px solid #540393;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  color: #540393;
+  font-size: 16px;
+}
