@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <title>Hola Git</title>
 
   <link rel="stylesheet" href="estilos.css">
 </head>
@@ -14,7 +14,7 @@
   <div class="container">
     <div class="message-box">
       <h1>Hola Git</h1>
-      Bienvenidos !
+      Bienvenidos a nuestra web !
     </div>
 
   </div>
