@@ -15,6 +15,7 @@
     <div class="message-box">
       <h1>Hola Git</h1>
       Bienvenidos a nuestra web !
+      <i>25/Feb/2025</i>
     </div>
 
   </div>
