@@ -2,7 +2,6 @@
 Author: Oscar Patty
 Date: 25/02/2025
 -->
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -19,8 +18,8 @@ Date: 25/02/2025
   <div class="container">
     <div class="message-box">
       <h1>Hola Git</h1>
-      Bienvenidos a nuestra web !
-      <i>25/Feb/2025</i>
+      <p>Bienvenidos a nuestra web !</p>
+      <p><i>25/Feb/2025</i></p>
     </div>
 
   </div>
